@@ -58,9 +58,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fatema213/fatema213/output/snake.svg" alt="Snake animation" />
-
-###
